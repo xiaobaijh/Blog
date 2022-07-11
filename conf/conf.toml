@@ -28,13 +28,13 @@ page_max = 30
 # 数据库
 # https://github.com/go-sql-driver/mysql
 # 数据库地址
-db_host = "127.0.0.1"
+db_host = "localhost"
 # 数据库端口
 db_port = 3306
 # 数据库账号
 db_user = "root"
 # 数据库密码
-db_passwd = "root"
+db_passwd = "12345678"
 # 数据库名称
 db_name = "blog"
 # 数据库参数
@@ -59,8 +59,8 @@ orm_hijack_log = true
 
 # 作者
 [author]
-name = "zxysilent"
-website = "https://github.com/zxysilent"
+name = "wjh"
+website = "https://github.com/xiaobaijh"
 
 # 微信相关 
 # 公众号 小程序 https://mp.weixin.qq.com/
